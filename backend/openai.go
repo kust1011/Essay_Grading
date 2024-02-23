@@ -264,13 +264,6 @@ func ListThreadMessages(threadID string) (*ThreadMessagesResponse, error) {
     if err != nil {
         return nil, fmt.Errorf("error reading response body: %w", err)
     }
-
-	// for debugging
-	// fmt.Println("ListThreadMessages:")
-	// print(string(body))
-	// println("")
-	// println("")
-	// println("")
 	
     var threadMessagesResponse ThreadMessagesResponse
     err = json.Unmarshal(body, &threadMessagesResponse)
