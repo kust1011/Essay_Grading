@@ -37,16 +37,16 @@
 >
 ## 首頁
 
-> [Imgur](https://i.imgur.com/j1AmOMJ.png)
+> ![Imgur](https://i.imgur.com/j1AmOMJ.png)
 
 ## 創建session
 
-> [Imgur](https://i.imgur.com/yv45MVo.png)
+> ![Imgur](https://i.imgur.com/yv45MVo.png)
 
 ## 輸入文章及題目
 
-> [Imgur](https://i.imgur.com/6MAtTTT.png)
+> ![Imgur](https://i.imgur.com/6MAtTTT.png)
 
 ## 輸出
 
-> [Imgur](https://i.imgur.com/dycJ2Rv.png)
+> ![Imgur](https://i.imgur.com/dycJ2Rv.png)
